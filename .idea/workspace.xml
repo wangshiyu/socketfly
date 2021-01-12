@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b87e867f-4f32-464d-9972-9e8fba3bc4ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/socketfly.properties" beforeDir="false" afterPath="$PROJECT_DIR$/bin/socketfly.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/clientCore/client/Heartbeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/clientCore/client/Heartbeat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/clientCore/client/SocketClientAgent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/clientCore/client/SocketClientAgent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/clientCore/client/SocketClientCore.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/clientCore/client/SocketClientCore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/clientCore/queue/messageQueue/MessageQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/clientCore/queue/messageQueue/MessageQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/clientCore/queue/receiveQueue/ReceiveQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/clientCore/queue/receiveQueue/ReceiveQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/clientCore/receive/Receive.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/clientCore/receive/Receive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/clientCore/send/Send.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/clientCore/send/Send.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/clientCore/system/SocketClientChannelDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/clientCore/system/SocketClientChannelDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/clientCore/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/clientCore/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/core/bean/BlackBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/core/bean/BlackBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/core/bean/DelayConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/core/bean/DelayConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/core/bean/LinkBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/core/bean/LinkBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/core/bean/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/core/bean/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/core/bean/ReceiveJMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/core/bean/ReceiveJMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/core/bean/SocketClose.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/core/bean/SocketClose.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/core/bean/WhiteBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/core/bean/WhiteBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/core/queue/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/core/queue/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/core/realizationInterface/CommandExecute.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/core/realizationInterface/CommandExecute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/core/realizationInterface/DataEncryptionDecrypt.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/core/realizationInterface/DataEncryptionDecrypt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/core/redis/JedisService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/core/redis/JedisService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/core/system/SystemConstant.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/core/system/SystemConstant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/core/timerun/TimeRunExecute.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/core/timerun/TimeRunExecute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/propertiesCofig/PropertiesCofig.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/propertiesCofig/PropertiesCofig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/businessbean/CommandBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/businessbean/CommandBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/businessbean/DataTransmission.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/businessbean/DataTransmission.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/encryption/EncryptionDecrypt.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/encryption/EncryptionDecrypt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/externalInterface/QueueInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/externalInterface/QueueInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/externalInterface/SocketInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/externalInterface/SocketInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/externalInterface/SysInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/externalInterface/SysInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/internalFunction/SysServiceFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/internalFunction/SysServiceFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/internalInterface/TimeRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/internalInterface/TimeRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/objectPool/ObjectPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/objectPool/ObjectPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/objectPool/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/objectPool/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/queue/messageQueue/MessageQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/queue/messageQueue/MessageQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/queue/receiveQueue/ReceiveQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/queue/receiveQueue/ReceiveQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/queue/redisBuffer/DataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/queue/redisBuffer/DataBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/queue/redisBuffer/HighSpeedBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/queue/redisBuffer/HighSpeedBuffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/queue/redisBuffer/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/queue/redisBuffer/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/queue/sysMessageQueue/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/queue/sysMessageQueue/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/queue/sysMessageQueue/SYSMesageQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/queue/sysMessageQueue/SYSMesageQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/realizationInterface/BlackList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/realizationInterface/BlackList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/realizationInterface/WhiteList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/realizationInterface/WhiteList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/receive/PushThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/receive/PushThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/receive/Receive.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/receive/Receive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/send/Send.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/send/Send.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/server/SocketChannelAgent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/server/SocketChannelAgent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/server/SocketServerCore.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/server/SocketServerCore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/server/SocketServerThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/server/SocketServerThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/system/ServerSystemConstant.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/system/ServerSystemConstant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/system/SocketChannelDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/system/SocketChannelDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/system/SocketCloseData.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/system/SocketCloseData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/system/SocketLikeCountData.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/system/SocketLikeCountData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/timeRunTask/AgentObjectPoolTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/timeRunTask/AgentObjectPoolTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/timeRunTask/HeartbeatTestingTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/timeRunTask/HeartbeatTestingTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/timeRunTask/SocketCloseTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/timeRunTask/SocketCloseTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/serverCore/timeRunTask/SocketLikeCountTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/serverCore/timeRunTask/SocketLikeCountTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/text/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/text/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/text/JedisService2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/text/JedisService2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/text/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/text/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/text/WeiXinMsgJSon.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/text/WeiXinMsgJSon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/utils/DateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/utils/DateUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/utils/FileUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/utils/FileUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/utils/JsonUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/utils/JsonUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/utils/LogAgent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/utils/LogAgent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/utils/LogOutPut.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/utils/LogOutPut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/utils/PropertiesAutoSerialize.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/utils/PropertiesAutoSerialize.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/wsy/utils/SerializeUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/wsy/utils/SerializeUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/socketfly.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/socketfly.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/clientCore/client/Heartbeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/clientCore/client/Heartbeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/clientCore/client/SocketClientAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/clientCore/client/SocketClientAgent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/clientCore/client/SocketClientCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/clientCore/client/SocketClientCore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/clientCore/queue/messageQueue/MessageQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/clientCore/queue/messageQueue/MessageQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/clientCore/queue/receiveQueue/ReceiveQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/clientCore/queue/receiveQueue/ReceiveQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/clientCore/receive/Receive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/clientCore/receive/Receive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/clientCore/send/Send.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/clientCore/send/Send.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/clientCore/system/SocketClientChannelDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/clientCore/system/SocketClientChannelDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/clientCore/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/clientCore/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/core/bean/BlackBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/core/bean/BlackBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/core/bean/DelayConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/core/bean/DelayConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/core/bean/LinkBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/core/bean/LinkBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/core/bean/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/core/bean/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/core/bean/ReceiveJMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/core/bean/ReceiveJMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/core/bean/SocketClose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/core/bean/SocketClose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/core/bean/WhiteBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/core/bean/WhiteBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/core/realizationInterface/DataEncryptionDecrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/core/realizationInterface/DataEncryptionDecrypt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/core/redis/JedisService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/core/redis/JedisService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/core/system/SystemConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/core/system/SystemConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/businessbean/DataTransmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/businessbean/DataTransmission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/internalFunction/SysServiceFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/internalFunction/SysServiceFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/objectPool/ObjectPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/objectPool/ObjectPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/objectPool/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/objectPool/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/queue/messageQueue/MessageQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/queue/messageQueue/MessageQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/queue/receiveQueue/ReceiveQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/queue/receiveQueue/ReceiveQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/queue/redisBuffer/DataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/queue/redisBuffer/DataBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/queue/redisBuffer/HighSpeedBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/queue/redisBuffer/HighSpeedBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/queue/redisBuffer/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/queue/redisBuffer/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/queue/sysMessageQueue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/queue/sysMessageQueue/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/realizationInterface/BlackList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/realizationInterface/BlackList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/realizationInterface/WhiteList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/realizationInterface/WhiteList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/receive/Receive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/receive/Receive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/send/Send.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/send/Send.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/server/SocketChannelAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/server/SocketChannelAgent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/server/SocketServerCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/server/SocketServerCore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/server/SocketServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/server/SocketServerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/system/ServerSystemConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/system/ServerSystemConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/system/SocketChannelDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/system/SocketChannelDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/system/SocketCloseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/system/SocketCloseData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/system/SocketLikeCountData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/system/SocketLikeCountData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/timeRunTask/AgentObjectPoolTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/timeRunTask/AgentObjectPoolTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/timeRunTask/HeartbeatTestingTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/timeRunTask/HeartbeatTestingTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/timeRunTask/SocketCloseTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/timeRunTask/SocketCloseTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/serverCore/timeRunTask/SocketLikeCountTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/serverCore/timeRunTask/SocketLikeCountTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/text/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/text/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/text/JedisService2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/text/JedisService2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/text/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/text/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wsy/text/WeiXinMsgJSon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wsy/text/WeiXinMsgJSon.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="em2dt1gu" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1myLHEFpf1EN3SuGI2eUquhJoQI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wsy.text.Server" />
+      <module name="socketfly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wsy.text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b87e867f-4f32-464d-9972-9e8fba3bc4ae" name="Default Changelist" comment="" />
+      <created>1610460793142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610460793142</updated>
+      <workItem from="1610460798156" duration="29000" />
+      <workItem from="1610460836732" duration="753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1085" y="405" key="#com.intellij.ide.util.MemberChooser" timestamp="1610461499363">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="405" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1610461499363" />
+    <state width="1251" height="832" key="GridCell.Tab.0.bottom" timestamp="1610461379752">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1251" height="832" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1610461379752" />
+    <state width="1251" height="832" key="GridCell.Tab.0.center" timestamp="1610461379752">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1251" height="832" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1610461379752" />
+    <state width="1251" height="832" key="GridCell.Tab.0.left" timestamp="1610461379752">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1251" height="832" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1610461379752" />
+    <state width="1251" height="832" key="GridCell.Tab.0.right" timestamp="1610461379752">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1251" height="832" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1610461379752" />
+    <state width="1251" height="832" key="GridCell.Tab.1.bottom" timestamp="1610461403067">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1251" height="832" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1610461403067" />
+    <state width="1251" height="832" key="GridCell.Tab.1.center" timestamp="1610461403067">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1251" height="832" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1610461403067" />
+    <state width="1251" height="832" key="GridCell.Tab.1.left" timestamp="1610461403067">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1251" height="832" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1610461403067" />
+    <state width="1251" height="832" key="GridCell.Tab.1.right" timestamp="1610461403067">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1251" height="832" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1610461403067" />
+    <state x="934" y="269" key="SettingsEditor" timestamp="1610460973591">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="934" y="269" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1610460973591" />
+    <state x="982" y="408" width="596" height="584" key="find.popup" timestamp="1610461165096">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="982" y="408" width="596" height="584" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1610461165096" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/io/File.java</url>
+          <line>1007</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
